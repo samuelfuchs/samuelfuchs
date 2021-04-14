@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://samuel-fuchs.com.br">Website</a> •
-  <a href="https://instagram.com/www.instagram.com/isamuelfuchs">Instagram</a>
+  <a href="https://www.instagram.com/isamuelfuchs/">Instagram</a>
 </p>
 
 ----
