@@ -9,3 +9,6 @@
 - 📫 How to reach me: ... fuchsgerson@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm half german
+<a href="https://www.facebook.com/isamuelfuchs">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
