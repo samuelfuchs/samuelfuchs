@@ -31,12 +31,12 @@
 ## Site oficial
 
 <a href="https://www.samuel-fuchs.com.br">
-  <img alt="Samuelfuchs's IG Instagram" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/364/364089.svg?token=exp=1618432890~hmac=26eaf26f35468688d92785acc6cf5650" /> samuel-fuchs.com.br
+  <img alt="Samuelfuchs's Home Page" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2301/2301129.svg?token=exp=1618916943~hmac=5f9990382868853ffa624aba855ce253" /> samuel-fuchs.com.br
 </a>
 
 ## Youtube
 
 <a href="#">
-  <img alt="Samuelfuchs's IG Instagram" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111785.svg?token=exp=1618433143~hmac=8cf653db0bd8cba21ac95844fc6ea548" /> ainda não ativo
+  <img alt="Samuelfuchs's Youtube Channel" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111785.svg?token=exp=1618433143~hmac=8cf653db0bd8cba21ac95844fc6ea548" /> ainda não ativo
 </a>
 
