@@ -4,8 +4,8 @@
   </h1>
 
 <p align="center">
-  <a href="https://samuel-fuchs.com.br">Portfólio</a> •
-  <a href="https://www.instagram.com/isamuelfuchs/">Instagram</a>
+  <a target="_blank" href="https://samuel-fuchs.com.br">Portfólio</a> •
+  <a target="_blank" href="https://www.instagram.com/isamuelfuchs/">Instagram</a>
 </p>
 
 ----
