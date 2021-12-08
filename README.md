@@ -14,5 +14,5 @@
 
 🌐 Para ver meu portfólio, acesse meu site oficial.
 
-🎉 Informação aleatória: metade de mim é alemã e gosta de comer chucrute
+🎉 
 
