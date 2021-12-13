@@ -9,9 +9,9 @@
 </p>
 
 ----
-Minha história:
+### Minha história:
 
-Olá aqui é o Gerson Fuchs e compartilho contigo o meu fascínio pelo universo da Programação.
+Meu nome é Gerson Fuchs e compartilho contigo o meu fascínio pelo universo da Programação.
 
 Iniciei minha vida profissional como entregador de jornal na adolescência, já atuei em diversas áreas ao longo da vida.
 
