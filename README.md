@@ -21,6 +21,11 @@ Passar horas montando o quebra-cabeça dos algoritmos com o intuito de entregar 
 
 Em meio aos estudos constantes tenho competência para realizar o seu pedido com riqueza de detalhes que irá diferenciar seu negócio de todos os demais que estão no mercado.
 
+#### Hobbies:
+- Ler 📚
+- Malhar 🏋️‍♂️
+- Comer 🍖
+
 #### Livros relacionados:
 
 - Como ser um programador melhor - Pete Goodliffe 
