@@ -23,7 +23,7 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 
 #### Livros relacionados:
 
-- Como ser um programador melhor - Pete Goodliffe
+- Como ser um programador melhor - Pete Goodliffe 
 - Clean Code - Robert Cecil Martin
 - Não me faça pensar - Steve Krug (UI/UX)
 - O universo da programação - William Oliveira
