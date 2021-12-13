@@ -35,4 +35,4 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 
 #### Dê uma olhada no meu portfólio aqui: [link](https://samuel-fuchs.com.br/)
 
-### Verifique abaixo alguns projetos selecionados:
+Verifique abaixo mais alguns projetos selecionados:
