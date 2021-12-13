@@ -32,3 +32,6 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 - Clean Code - Robert Cecil Martin
 - Não me faça pensar - Steve Krug (UI/UX)
 - O universo da programação - William Oliveira
+
+
+## Veja abaixo alguns projetos selecionados:
