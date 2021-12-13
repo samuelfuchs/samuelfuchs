@@ -33,5 +33,6 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 - Não me faça pensar - Steve Krug (UI/UX)
 - O universo da programação - William Oliveira
 
+#### Dê uma olhada no meu portfólio aqui: [link](https://samuel-fuchs.com.br/)
 
 ### Verifique abaixo alguns projetos selecionados:
