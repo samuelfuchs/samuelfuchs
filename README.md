@@ -34,4 +34,4 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 - O universo da programação - William Oliveira
 
 
-## Veja abaixo alguns projetos selecionados:
+### Verifique abaixo alguns projetos selecionados:
