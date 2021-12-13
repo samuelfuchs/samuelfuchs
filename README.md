@@ -21,3 +21,9 @@ Passar horas montando o quebra-cabeça dos algoritmos com o intuito de entregar 
 
 Em meio aos estudos constantes tenho competência para realizar o seu pedido com riqueza de detalhes que irá diferenciar seu negócio de todos os demais que estão no mercado.
 
+#### Livros relacionados:
+
+- Como ser um programador melhor - Pete Goodliffe
+- Clean Code - Robert Cecil Martin
+- Não me faça pensar - Steve Krug (UI/UX)
+- O universo da programação - William Oliveira
