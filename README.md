@@ -20,9 +20,4 @@ Adquiri vasta experiência por ter morado na Alemanha e em Londres, nesse perío
 Passar horas montando o quebra-cabeça dos algoritmos com o intuito de entregar um produto personalizado e de excelência para o cliente é meu maior compromisso.
 
 Em meio aos estudos constantes tenho competência para realizar o seu pedido com riqueza de detalhes que irá diferenciar seu negócio de todos os demais que estão no mercado.
-🧐 Para acompanhar minhas novidades, siga-me no Instagram
-
-🌐 Para ver meu portfólio, acesse meu site oficial.
-
-🎉 
 
