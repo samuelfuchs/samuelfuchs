@@ -35,5 +35,7 @@ Em meio aos estudos constantes tenho competência para realizar o seu pedido com
 - O universo da programação - William Oliveira
 
 #### Dê uma olhada no meu portfólio aqui: [link](https://samuel-fuchs.com.br/)
+Meu Instagram com dicas e novidades: [link](https://www.instagram.com/isamuelfuchs/)
+Meu LinkedIn: [link](https://www.linkedin.com/in/gerson-fuchs-3b290b227/)
 
 Verifique abaixo mais alguns projetos selecionados:
