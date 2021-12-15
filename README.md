@@ -10,9 +10,8 @@
 </p>
 
 ----
-### Minha história:
-
-Meu nome é Gerson Fuchs e compartilho contigo o meu fascínio pelo universo da Programação.
+<details><summary>Sobre mim:</summary>
+<p>
 
 Iniciei minha vida profissional como entregador de jornal na adolescência, já atuei em diversas áreas ao longo da vida.
 
@@ -22,17 +21,29 @@ Passar horas montando o quebra-cabeça dos algoritmos com o intuito de entregar 
 
 Em meio aos estudos constantes tenho competência para realizar o seu pedido com riqueza de detalhes que irá diferenciar seu negócio de todos os demais que estão no mercado.
 
-#### Hobbies:
+</p>
+</details>
+
+<details><summary>Hobbies:</summary>
+<p>
+  
 - Ler 📚
 - Malhar 🏋️‍♂️
 - Comer 🍖
 
-#### Livros relacionados:
+</p>
+</details>
+
+<details><summary>Livros relacionados:</summary>
+<p>
 
 - Como ser um programador melhor - Pete Goodliffe 
 - Clean Code - Robert Cecil Martin
 - Não me faça pensar - Steve Krug (UI/UX)
 - O universo da programação - William Oliveira
+  
+  </p>
+</details>
 
 #### Dê uma olhada no meu portfólio aqui: [link](https://samuel-fuchs.com.br/)
 
