@@ -1,4 +1,4 @@
-### Desenvolvedor frontend
+### Frontend Developer
 <h1 align="center">
   Hello and welcome!
   </h1>
