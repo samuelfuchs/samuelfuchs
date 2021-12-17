@@ -33,6 +33,7 @@ In the midst of constant studies, I am competent to carry out your order with a 
 - Clean Code, from Robert Cecil Martin
 - Don't make me think, from Steve Krug
 
+
 <!-- 
 <details><summary>Sobre mim:</summary>
 <p>
