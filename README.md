@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://samuel-fuchs.com.br">Portfolio</a> •
   <a href="https://www.instagram.com/isamuelfuchs/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/gerson-fuchs-3b290b227/">LinkedIn</a>
+  <a href="www.linkedin.com/in/isamuelfuchs>LinkedIn</a>
 </p>
 
 ----
