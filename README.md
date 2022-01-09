@@ -35,4 +35,6 @@ In the midst of constant studies, I am competent to carry out your order with a 
 
 ----
 
+I like practicing my JavaScript skills on Codewars.
+
 ![codewars](https://www.codewars.com/users/samuelfuchs/badges/small)
