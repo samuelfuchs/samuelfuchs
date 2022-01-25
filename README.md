@@ -29,10 +29,11 @@ In the midst of constant studies, I am competent to carry out your order with a 
 
 #### Programming books I like:
 
-- Becomming a better programmer, from Pete Goodliffe
-- Clean Code, from Robert Cecil Martin
-- Don't make me think, from Steve Krug
-- Evil by Design, from Chris Nodder
+- Becomming a better programmer - Pete Goodliffe
+- Clean Code - Robert Cecil Martin
+- Don't make me think - Steve Krug
+- Evil by Design - Chris Nodder
+- The Pragmatic Programmer - David Thomas & Andrew Hunt
 
 ----
 
