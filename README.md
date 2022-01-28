@@ -4,7 +4,7 @@
   </h1>
 
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
+  <a href="https://samuel-fuchs.com.br/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Portfolio Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/gersonsamuelfuchs/">
