@@ -58,7 +58,7 @@ In the midst of constant studies, I am competent to carry out your order with a 
 
 #### Programming books I like:
 
-- Becomming a better programmer - Pete Goodliffe
+- Becomming a better Programmer - Pete Goodliffe
 - Clean Code - Robert Cecil Martin
 - Don't make me think - Steve Krug
 - Evil by Design - Chris Nodder
