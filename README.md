@@ -40,23 +40,7 @@
 
 ----
 
-#### About me
-
-I started my professional life as a newspaper delivery boy in my teens, I've worked in several areas throughout my life.
-
-I gained vast experience from having lived in Germany and London, during this period I took the opportunity to learn French and with fluency in German and English I was able to improve myself as a Programmer.
-
-Spending hours assembling the puzzle of algorithms in order to deliver a personalized and excellent product to the customer is my greatest commitment.
-
-In the midst of constant studies, I am competent to carry out your order with a wealth of details that will differentiate your business from all others in the market.
-
-#### Hobbies:
-
-- Reading 📚
-- Working out 🏋️‍♂️
-- Eating 🍖
-
-#### Programming books I like:
+#### Programming books I recommend:
 
 - Becomming a better Programmer - Pete Goodliffe
 - Clean Code - Robert Cecil Martin
