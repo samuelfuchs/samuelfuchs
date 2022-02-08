@@ -47,6 +47,7 @@
 - Don't make me think - Steve Krug
 - Evil by Design - Chris Nodder
 - The Pragmatic Programmer - David Thomas & Andrew Hunt
+- doing Agile the right way - Darrell Rigby, Sarah Elk & Steve Berez
 
 ----
 
