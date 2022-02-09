@@ -1,8 +1,4 @@
 
-<h1 align="center">
-  Hello and welcome!
-  </h1>
-
 ### I'm a Frontend Software Developer - studying hard to become Full Stack!
 
 
