@@ -1,6 +1,5 @@
 
-### I'm a Frontend Software Developer - studying hard to become Full Stack!
-
+### Frontend Software Developer
 
 <div id="badges">
   <a href="https://samuel-fuchs.com.br/">
