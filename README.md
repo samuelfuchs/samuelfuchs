@@ -37,6 +37,7 @@
 
 #### Programming books I recommend:
 
+- Soft Skills: The Software Developer's Life Manual - John Sonmez
 - Becomming a better Programmer - Pete Goodliffe
 - Clean Code - Robert Cecil Martin
 - Don't make me think - Steve Krug
