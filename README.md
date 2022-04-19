@@ -14,9 +14,9 @@
 </div>
 
 ----
-<!--
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelfuchs&theme=dark&background=000000)](https://git.io/streak-stats)
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,3 +49,23 @@
 ----
 
 ![codewars](https://www.codewars.com/users/samuelfuchs/badges/small)
+
+<!--
+
+```
+const samuel = {
+  bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
+  code: ['HTML', 'CSS', 'JavaScript', 'NodeJs', 'React'],
+  tools: ['vscode', 'prettier', 'Bootstrap'],
+  challenge: `I'm focused on React, TypeScript and Nodejs`,
+  more: [
+    `I use daily: ".jsx" and ".(s)css"`,
+    `I'm currently learning Nodejs and TypeScript`,
+    `I'm looking to collaborate on social impact projects`,
+    `Ask me about JavaScript, books, playing cards and personal management tools`,
+    `Things I deeply care about: Design and User Experience`,
+    ]
+  }
+  ```
+
+-->
