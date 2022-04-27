@@ -41,7 +41,7 @@
 
 ----
 
-#### Books recommendation:
+#### Book recommendation:
 
 - Soft Skills: The Software Developer's Life Manual - John Sonmez
 - Becomming a better Programmer - Pete Goodliffe
