@@ -65,6 +65,7 @@
 
 #### Book recommendations:
 
+- Atomic Habits - James Clear
 - Soft Skills: The Software Developer's Life Manual - John Sonmez
 - Becomming a better Programmer - Pete Goodliffe
 - Clean Code - Robert Cecil Martin
