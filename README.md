@@ -75,9 +75,9 @@
 - Doing Agile the right Way - Darrell Rigby, Sarah Elk & Steve Berez
 
 ----
-
+<!--
 ![codewars](https://www.codewars.com/users/samuelfuchs/badges/small)
-
+-->
 <!--
 
 ```
