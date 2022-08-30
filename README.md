@@ -1,5 +1,5 @@
 
-## Fullstack Software Developer
+## Frontend Software Developer
 
 <div id="badges">
   <a href="https://samuel-fuchs.com.br/">
