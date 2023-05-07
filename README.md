@@ -1,15 +1,17 @@
 
 ## Frontend Software Developer
 
+
+Front-end developer with a passion for creating visually appealing and responsive web applications using React, Next.js, and React Native. Collaborative team player experienced in delivering seamless user experiences. 
+
+Also a bookworm who loves to spend time exploring different literary worlds. 📚
+
 <div id="badges">
-  <a href="https://samuel-fuchs.com.br/">
+  <a href="https://samuel-fuchs-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Portfolio Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/gersonsamuelfuchs/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/isamuelfuchs/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -20,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
+<!--
 #### Technologies I worked with :
 
 <div>
@@ -35,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   
 </div>
-
+-->
 <!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
@@ -60,9 +62,7 @@
 </div>
 
 -->
-
-----
-
+<!--
 #### Book recommendations:
 
 - Atomic Habits - James Clear
@@ -73,8 +73,7 @@
 - Evil by Design - Chris Nodder
 - The Pragmatic Programmer - David Thomas & Andrew Hunt
 - Doing Agile the right Way - Darrell Rigby, Sarah Elk & Steve Berez
-
-----
+-->
 <!--
 ![codewars](https://www.codewars.com/users/samuelfuchs/badges/small)
 -->
@@ -97,3 +96,6 @@ const samuel = {
   ```
 
 -->
+
+
+
