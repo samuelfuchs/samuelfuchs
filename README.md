@@ -7,7 +7,7 @@ Front-end developer with a passion for creating visually appealing and responsiv
 Also a bookworm who loves to spend time exploring different literary worlds. 📚
 
 <div id="badges">
-  <a href="https://samuel-fuchs-portfolio.netlify.app">
+  <a href="https://samuel-fuchs.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Portfolio Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/gersonsamuelfuchs/">
