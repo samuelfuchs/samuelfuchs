@@ -1,8 +1,8 @@
 
-## Frontend Software Developer
+## Software Developer
 
 
-Front-end developer with a passion for creating visually appealing and responsive web applications using React, Next.js, and React Native. Collaborative team player experienced in delivering seamless user experiences. 
+Software Developer with a passion for creating visually appealing and responsive web applications using React, Next.js, and React Native. Collaborative team player experienced in delivering seamless user experiences. 
 
 Also a bookworm who loves to spend time exploring different literary worlds. 📚
 
