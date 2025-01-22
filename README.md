@@ -4,7 +4,7 @@
 
 Software Developer with a passion for creating visually appealing and responsive web applications using React, Next.js, and React Native. Collaborative team player experienced in delivering seamless user experiences. 
 
-Also a bookworm who loves to spend time exploring different literary worlds. 📚
+Also a bookworm who loves to spend time exploring different literary worlds. 📚📘
 
 <div id="badges">
   <a href="https://samuel-fuchs.netlify.app/">
