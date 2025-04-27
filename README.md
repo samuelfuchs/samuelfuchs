@@ -5,7 +5,7 @@
 Software Developer with a passion for creating visually appealing and responsive web applications using React, Next.js, and React Native. Collaborative team player experienced in delivering seamless user experiences. 
 
 Also a bookworm who loves to spend time exploring different literary worlds. 📚📘
-
+<!--
 <div id="badges">
   <a href="https://samuel-fuchs.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Portfolio Badge"/>
@@ -14,7 +14,7 @@ Also a bookworm who loves to spend time exploring different literary worlds. �
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+-->
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelfuchs&theme=dark&background=000000)](https://git.io/streak-stats)
 
